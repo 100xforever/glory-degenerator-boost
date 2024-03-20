@@ -1,0 +1,29 @@
+{
+  "name": "glory-degenerator-boost",
+  "version": "1.0.0",
+  "description": "Enhance your glory-degeneration workflows with advanced tools and optimizations for enhanced performance.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/100xforever/glory-degenerator-boost"
+  },
+  "author": "100xforever",
+  "license": "MIT",
+  "dependencies": {
+    "glory-degenerator": "1.0.0",
+    "glory-degenerator-boost": "1.0.0",
+    "eslint": "1.0.0",
+    "node-sass": "1.0.0",
+    "cors": "1.0.0",
+    "request": "1.0.0",
+    "firebase": "1.0.0",
+    "async": "1.0.0",
+    "supertest": "1.0.0",
+    "sinon": "1.0.0",
+    "react-redux": "1.0.0",
+    "ejs": "1.0.0"
+  }
+}
